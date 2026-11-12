@@ -1,0 +1,55 @@
+==================================================
+TUGAS INFORMATIKA KELAS XII
+PERANCANGAN ALGORITMA (PSEUDOCODE)
+==================================================
+
+A. IDENTITAS SISWA
+
+Nama Lengkap :
+Kelas        :
+Nomor Absen  :
+Username GitHub :
+
+B. JUDUL PROGRAM
+
+Tuliskan judul program yang akan dibuat.
+
+C. DESKRIPSI MASALAH
+
+Jelaskan permasalahan yang ingin diselesaikan menggunakan program.
+
+D. TUJUAN PROGRAM
+
+Jelaskan tujuan dari program yang dibuat.
+
+E. ANALISIS INPUT, PROSES, DAN OUTPUT
+
+1. INPUT:
+   Tuliskan data yang dimasukkan pengguna.
+
+2. PROSES:
+   Tuliskan proses atau perhitungan yang dilakukan.
+
+3. OUTPUT:
+   Tuliskan hasil yang ditampilkan oleh program.
+
+F. ALGORITMA / PSEUDOCODE
+
+MULAI
+
+   1. Tuliskan langkah pertama.
+   2. Tuliskan langkah kedua.
+   3. Tuliskan langkah ketiga.
+   4. Tuliskan langkah berikutnya.
+
+SELESAI
+
+G. KETERANGAN
+
+Jelaskan secara singkat alasan menggunakan algoritma tersebut.
+
+==================================================
+CATATAN:
+Pseudocode harus dibuat terlebih dahulu sebelum
+menulis kode program C++.
+==================================================
