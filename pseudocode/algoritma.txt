@@ -1,3 +1,4 @@
+
 ==================================================
 TUGAS INFORMATIKA KELAS XII
 PERANCANGAN ALGORITMA (PSEUDOCODE)
@@ -16,11 +17,12 @@ Tuliskan judul program yang akan dibuat.
 
 C. DESKRIPSI MASALAH
 
-Jelaskan permasalahan yang ingin diselesaikan menggunakan program.
+Jelaskan permasalahan yang ingin diselesaikan
+menggunakan program.
 
 D. TUJUAN PROGRAM
 
-Jelaskan tujuan dari program yang dibuat.
+Jelaskan tujuan dan manfaat program yang dibuat.
 
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
@@ -28,28 +30,47 @@ E. ANALISIS INPUT, PROSES, DAN OUTPUT
    Tuliskan data yang dimasukkan pengguna.
 
 2. PROSES:
-   Tuliskan proses atau perhitungan yang dilakukan.
+   Tuliskan langkah pengolahan atau perhitungan
+   yang dilakukan program.
 
 3. OUTPUT:
-   Tuliskan hasil yang ditampilkan oleh program.
+   Tuliskan hasil yang akan ditampilkan program.
 
 F. ALGORITMA / PSEUDOCODE
 
+Tuliskan langkah-langkah algoritma secara
+sistematis dan logis.
+
 MULAI
 
-   1. Tuliskan langkah pertama.
-   2. Tuliskan langkah kedua.
-   3. Tuliskan langkah ketiga.
-   4. Tuliskan langkah berikutnya.
+   1. Deklarasikan variabel yang diperlukan.
+   2. Masukkan data (INPUT).
+   3. Lakukan proses pengolahan data.
+   4. Gunakan percabangan IF-ELSE jika diperlukan.
+   5. Gunakan perulangan FOR/WHILE jika diperlukan.
+   6. Tampilkan hasil (OUTPUT).
 
 SELESAI
 
+Catatan:
+- Gunakan bahasa yang jelas dan mudah dipahami.
+- Setiap langkah harus berurutan dan logis.
+- Sesuaikan algoritma dengan permasalahan program.
+- Tidak semua program harus menggunakan
+  percabangan dan perulangan.
+
 G. KETERANGAN
 
-Jelaskan secara singkat alasan menggunakan algoritma tersebut.
+Jelaskan alasan penggunaan algoritma tersebut
+dan bagaimana algoritma menyelesaikan masalah.
 
 ==================================================
-CATATAN:
-Pseudocode harus dibuat terlebih dahulu sebelum
-menulis kode program C++.
+CATATAN PENTING:
+
+1. Pseudocode harus dibuat terlebih dahulu
+   sebelum menulis kode program C++.
+2. Pseudocode harus sesuai dengan kode program
+   yang dibuat.
+3. Gunakan logika algoritma yang benar.
+
 ==================================================
