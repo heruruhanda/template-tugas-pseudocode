@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 using namespace std;
@@ -16,19 +15,23 @@ using namespace std;
 int main() {
 
     // 1. DEKLARASI VARIABEL
-    // Tuliskan variabel yang diperlukan.
+    // Deklarasikan variabel yang diperlukan.
 
 
     // 2. INPUT
-    // Tuliskan perintah untuk menerima data dari pengguna.
+    // Tuliskan perintah untuk menerima data
+    // dari pengguna menggunakan cin atau getline.
 
 
     // 3. PROSES
     // Tuliskan proses atau perhitungan program.
+    // Gunakan IF-ELSE jika diperlukan.
+    // Gunakan FOR atau WHILE jika diperlukan.
 
 
     // 4. OUTPUT
-    // Tuliskan perintah untuk menampilkan hasil program.
+    // Tuliskan perintah untuk menampilkan hasil
+    // menggunakan cout.
 
 
     return 0;
